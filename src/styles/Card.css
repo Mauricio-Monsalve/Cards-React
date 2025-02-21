@@ -1,0 +1,28 @@
+.Card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: antiquewhite;
+    border-radius: 2vh;
+    width: 30vh;
+    padding: 2vh;
+}
+
+.Card h2 {
+    font-size: 4vh;
+}
+
+.Card img {
+    width: 100%;
+    object-fit: contain;
+    padding: 2vh;
+    mix-blend-mode: multiply;
+}
+
+.Card p {
+    font-size: 3vh;
+}
+
+.Card span {
+    font-size: 2vh;
+}

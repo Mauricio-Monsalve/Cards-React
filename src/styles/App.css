@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    margin: 3vh 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 2vh;
+    flex-wrap: wrap;
+    padding: 2vh;
+}

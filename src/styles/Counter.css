@@ -1,0 +1,11 @@
+.Counter {
+    width: 10vh;
+    aspect-ratio: 16/9;
+    font-size: 3vh;
+    border: none;
+    border-radius: 2vh;
+}
+
+.Counter:focus {
+    outline: none;
+}
